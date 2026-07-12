@@ -1,3 +1,4 @@
+package java_backend_journey.Interfacess;
 
 interface  Cashcard{
     void cards();

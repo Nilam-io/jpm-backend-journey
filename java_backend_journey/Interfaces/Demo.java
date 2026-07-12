@@ -1,3 +1,4 @@
+package java_backend_journey.Interfacess;
 interface A{
     int age =24;
     String id ="001";
