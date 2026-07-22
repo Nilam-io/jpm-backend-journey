@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe539b64-ef2a-447c-a5b6-8c8c5ad1a253" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract_Class/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract_Class/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract_Class/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract_Class/Mercedes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract_Class/Mercedez.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Annotations/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Annotations/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Annotations/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Annotations/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/JaggedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/Stringobjt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Basic/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Basic/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Lists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Maps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Maps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Sets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Sets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/Trees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Collections/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Conditional/Condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Constructor_Static_variable_method/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Constructor_Static_variable_method/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Constructor_Static_variable_method/Mobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Constructor_Static_variable_method/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dynamic_Method_Dispatch/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dynamic_Method_Dispatch/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dynamic_Method_Dispatch/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dynamic_Method_Dispatch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dynamic_Method_Dispatch/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dynamic_Method_Dispatch/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/About.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/About.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Encapsulation/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enumeration/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enumeration/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enumeration/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enumeration/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enumeration/Smartphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Enumeration/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Creating_own_Exception/My.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/InvalidIdException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/My.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Throws_Keyword/AdhaarCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Throws_Keyword/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Throws_Keyword/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/Throws_Keyword/InvalidIDException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exception/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final_Keyword/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final_Keyword/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final_Keyword/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final_Keyword/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/A$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/Abstract_InnerClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/Abstract_InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/Abstract_InnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InnerClass/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Cashcard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/DebitCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/Functional_Interfaces/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Interfaces/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LVTI_LocalVariableTypeInference/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LVTI_LocalVariableTypeInference/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Loop/For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Loop/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Method_Overriding/AdvCal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Method_Overriding/Cal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Method_Overriding/Solve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Method_Overriding/Solve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Method_Overriding/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Primitive_Variables/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Primitive_Variables/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Record_Class/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Record_Class/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Record_Class/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sealed_Class/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sealed_Class/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sealed_Class/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sealed_Class/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sealed_Class/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sealed_Class/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Inofrmation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Inofrmation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Inofrmation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Sortingg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Strings$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorting/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Constructor_Reference/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Constructor_Reference/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Constructor_Reference/Outline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Method_Reference/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Method_Reference/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Optional_Class/Opt_Ex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Optional_Class/Opt_Ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Parallel_Stream/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stream_API/Parallel_Stream/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Threads/Adhaar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Threads/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Threads/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Threads/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Threads/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Typecasting/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Up_Down_casting/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Up_Down_casting/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Up_Down_casting/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Up_Down_casting/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../operation/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../string/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../string/Strings.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="6" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000990145453585" />
+      <entry key="S2" value="1.0997527206445432" />
+      <entry key="S5" value="1.397713103312387" />
+      <entry key="S10" value="1.6306449899209436" />
+      <entry key="S30" value="1.8575543415069988" />
+      <entry key="S60" value="1.926042300063555" />
+      <entry key="M2" value="1.9623109165251917" />
+      <entry key="M5" value="1.9847503979750822" />
+      <entry key="M10" value="1.9923459064132234" />
+      <entry key="M15" value="1.9948907392378015" />
+      <entry key="M30" value="1.9974420981880607" />
+      <entry key="H1" value="1.9987202301886453" />
+      <entry key="H2" value="1.9993599102368702" />
+      <entry key="H4" value="1.9996799038876745" />
+      <entry key="D1" value="1.9999466435311701" />
+      <entry key="W1" value="1.9999923774730037" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7269862586601552" />
+      <entry key="MS500" value="0.9382279403325428" />
+      <entry key="S2" value="1.0351437010277598" />
+      <entry key="S5" value="1.2976552984404557" />
+      <entry key="S10" value="1.5481893992240798" />
+      <entry key="S30" value="1.8189401176879714" />
+      <entry key="S60" value="1.905008555602765" />
+      <entry key="M2" value="1.9513328930139793" />
+      <entry key="M5" value="1.9802445313214432" />
+      <entry key="M10" value="1.9900735228543376" />
+      <entry key="M15" value="1.9933714690293394" />
+      <entry key="M30" value="1.996680282743725" />
+      <entry key="H1" value="1.9983387761743152" />
+      <entry key="H2" value="1.9991690465055116" />
+      <entry key="H4" value="1.9995844378220362" />
+      <entry key="D1" value="1.9999307277686302" />
+      <entry key="W1" value="1.9999901036762542" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GqgRpEc0uJSzR5H6Kj2tRGiNAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe539b64-ef2a-447c-a5b6-8c8c5ad1a253" name="Changes" comment="" />
+      <created>1784704510151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784704510151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
