@@ -1,5 +1,5 @@
  class Bank{
-    private int id;
+     private int id;
     private double balance;
     private String name;
 
@@ -13,7 +13,7 @@
     }
     public void deposit(double amount){
         if(amount > 0){
-            balance +=amount;
+            balance += amount;
            
         }
         else{
@@ -60,13 +60,14 @@
 
 public class Banking{
     public static void main(String[] args) {
-        Bank b = new Bank(1,2000,"Neha");
+        Bank b = new Bank(1,2000,"Diya");
         b.display();
          b.setName("Nilam");
          b.display();
-         b.withdraw(200);
+        
          b.deposit(20000);
-        b.display();
+          b.withdraw(2000);
+          b.display();
 
 
 
