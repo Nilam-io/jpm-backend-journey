@@ -45,7 +45,7 @@ class LinkList {
             node = node.next;
 
         }
-        System.out.println(node.data); // because at the last node the, condition becomes true
+        System.out.println(node.data);
     }
 
 }
