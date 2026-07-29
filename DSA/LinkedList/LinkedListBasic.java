@@ -48,6 +48,57 @@ class LinkList {
         System.out.println(node.data); // because at the last node the, condition becomes true
     }
 
+    public void insertAtStart(int data) {
+        Node node = new Node();
+        node.data = data;
+        node.next = null;
+        node.next = head;
+        head = node;
+        // there is no requirement of any while loop
+
+    }
+    public void deleteAt(int index){
+        if(index == 0){
+            head = head.next;
+        }
+        else{
+            Node n = head;
+            for( int i =0;i<index-1;i++){
+                n =n.next;
+            }
+           Node n1= n.next;
+           n.next = n1.next; // good one thoda dimaag laga yaha! : )
+
+
+
+        }
+    }
+
+    public void insertAt(int index, int data) {
+        Node node = new Node();
+        node.data = data;
+        node.next = null;
+
+        Node n = head;
+        if (index == 0) {
+            insertAtStart(data);
+            
+        }
+        else{
+            
+        for (int i = 0; i < index-1; i++) {
+
+            n = n.next;
+
+        }
+        node.next = n.next;
+        n.next = node;
+            
+        }
+
+
+    }
+
 }
 
 public class LinkedListBasic {
@@ -62,6 +113,9 @@ public class LinkedListBasic {
         list.insert(5);
         list.insert(34);
         list.insert(56);
+        list.insertAtStart(2);
+        list.insertAt(3, 36);
+        list.deleteAt(2);
         list.show();
 
     }
