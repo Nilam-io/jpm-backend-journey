@@ -7,20 +7,30 @@ class Q {
     int size;
 
     public void enQueue(int data) {
-        queue[rear] = data;
-        rear = (rear + 1) % 4; //To make it circular
-        size = size + 1;
+        if (!isFull()) {
+
+            queue[rear] = data;
+            rear = (rear + 1) % 4; //To make it circular
+            size = size + 1;
+        } else {
+            System.out.println("The Queue is Full");
+        }
 
     }
 
     public int deQueue() {
-
         int data = queue[front];
 
-        queue[front] = 0;
+        if (!isEmpty()) {
+            
+            queue[front] = 0;
 
-        front = front + 1;
-        size = size - 1;
+            front = front + 1;
+            size = size - 1;
+
+        } else {
+            System.out.println("the Queue is Empty");
+        }
 
         return data;
 
@@ -37,6 +47,19 @@ class Q {
             System.out.println(" " + n);
         }
     }
+
+    public int getsize() {
+        return size;
+    }
+
+    public boolean isEmpty() {
+        return getsize() == 0;
+    }
+
+    public boolean isFull() {
+        return getsize() == 4;
+    }
+
 }
 
 public class Circular {
