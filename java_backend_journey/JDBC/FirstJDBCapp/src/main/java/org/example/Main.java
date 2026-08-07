@@ -21,7 +21,7 @@
             Connection connect= DriverManager.getConnection(url , user, password);
             // Creating statement object
             Statement statement = connect.createStatement();
-            //Execute the query
+//            Execute the query
             String sql = "Insert into student(id, name,age, city ) values(2,'Mrudula',15,'Pune')";
             int row = statement.executeUpdate(sql);
             if(row ==0){
@@ -30,6 +30,7 @@
             else{
                 System.out.println("Data inserted successfully");
             }
+
 
             //process the result
 
