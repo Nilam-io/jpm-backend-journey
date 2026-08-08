@@ -24,7 +24,7 @@ public class LaunchClassApp3 {
              statement = connect.createStatement();
 //            Execute the query
             //it holdes the method known as, execute which helps to execute selective and non selective at once
-            String sql = "Select  * from student where id = 2";
+            String sql = "Select  * from student ";
             boolean status = statement.execute(sql);
             if (status) {
                 //Select opertaion
