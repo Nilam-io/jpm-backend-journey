@@ -5,6 +5,7 @@ class Solution {
     public int majorityElement(int[] nums) {
 
         Map<Integer, Integer> map = new HashMap<>();
+       
 
       
         for (int i = 0; i < nums.length; i++) {
@@ -16,7 +17,7 @@ class Solution {
         
         for (Integer key : map.keySet()) {
             if (map.get(key) > frequency) {
-                return key;
+                
             }
         }
 
