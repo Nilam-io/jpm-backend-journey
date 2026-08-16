@@ -5,11 +5,11 @@ class Solution {
         int target = nums.length - k;
 
         int left = 0;
-        int right = nums.length - 1;
+        int r = nums.length - 1;
 
-        while (left <= right) {
+        while (left <= r) {
 
-            int pivotIndex = partition(nums, left, right);
+            int pivotIndex = partition(nums, left, r);
 
             if (pivotIndex == target) {
                 return nums[pivotIndex];
@@ -18,20 +18,20 @@ class Solution {
             if (pivotIndex < target) {
                 left = pivotIndex + 1;
             } else {
-                right = pivotIndex - 1;
+                r = pivotIndex - 1;
             }
         }
 
         return -1;
     }
 
-    private int partition(int[] nums, int left, int right) {
+    private int partition(int[] nums, int left, int r) {
 
-        int pivot = nums[right];
+        int pivot = nums[r];
 
         int i = left;
 
-        for (int j = left; j < right; j++) {
+        for (int j = left; j < r; j++) {
 
             if (nums[j] < pivot) {
 
@@ -43,10 +43,10 @@ class Solution {
             }
         }
 
-        
+        // Swap the pivot element with the element at index i
         int temp = nums[i];
-        nums[i] = nums[right];
-        nums[right] = temp;
+        nums[i] = nums[r];
+        nums[r] = temp;
 
         return i;
     }
