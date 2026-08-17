@@ -50,4 +50,6 @@ public class Demo7 {
     }
 }
     
-
+// but here the time complexity is O(n^2) because for each element in nums2,
+//  we are checking the next elements to find the next greater element. 
+//  can be optimized using a stack to achieve O(n) time complexity.
